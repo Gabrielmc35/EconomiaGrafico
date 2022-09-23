@@ -32,6 +32,6 @@ export  function useFetch(url:string) {
 
 
 
-}    setTimeout(useFetch, 3000)
+}    
 
 
